@@ -7,5 +7,6 @@
 Email: lorenzo.p.balderrama@gmail.com
 Twitter: LorenzoBalderr1
 LinkedIn: https://www.linkedin.com/in/lorenzobalderrama/
+Blog: https://www.notion.so/lorenzobalderrama/Blog-cf9d70f43bc44fb785162785a572aaff
 
 Don't be afraid to reach out! 

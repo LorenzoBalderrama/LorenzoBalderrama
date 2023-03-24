@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LorenzoBalderrama
 - 👀 I’m interested in Notion, Art, Music, Biology, Medicine, and Computer Science!
-- 🌱 I’m developing my skills further in JavaScript | Python | Swift.
+- 🌱 I’m developing my skills further in JavaScript | Python | Swift | Node.js
 - 💞️ I’m looking to collaborate on creative content, biological sciences, medicine, and software engineering projects.
 - 📫 How to reach me 
 

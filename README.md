@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Node.js personal project.<br>I am studying at Oregon State University.<br>My tech stack includes:<br>- HTML | CSS | Javascript | Python | Go | Swift | React | Django | Node.js | SQL
+I'm currently working on a Node.js personal project.<br>I am studying at Oregon State University.<br>Check out my blog at thecodingsoup.com<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently building out my personal website soon to come! <br>I am designing a web app to store my comic books in and use some machine learning to develop a quick way to get new suggestions.<br>I am leaving healthcare to find my place in tech!<br>I am completing my post bacc at Oregon State University: BS Computer Science (expected April 2024!)<br>I am building out my network so make sure to check out my socials!
+I am currently building out my personal website soon to come! <br>I am designing a web app to store my comic books in and use some machine learning to develop a quick way to get new suggestions.<br>I left healthcare to find my place in tech!<br>I am working through my Solution Architect Certificate for AWS<br>I am building out my network so make sure to check out my socials!
 
 
 ## 🌐 Socials:

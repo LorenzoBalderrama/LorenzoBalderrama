@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently building out my personal website soon to come! <br>I am designing a web app to store my comic books in and use some machine learning to develop a quick way to get new suggestions.<br>I left healthcare to find my place in tech!<br>I am working through my Solution Architect Certificate for AWS<br>I am building out my network so make sure to check out my socials!
+Building Comic Cache - A comic book organizer with AI insights. <br> Designing a web app to store my comic books in and use some machine learning to develop a quick way to get new suggestions.<br>I left healthcare to find my place in tech!<br>Solution Engineer working in both Pre & Post Sales.<br>I am building out my network so make sure to check out my socials!
 
 
 ## 🌐 Socials:

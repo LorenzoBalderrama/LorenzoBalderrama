@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A masters at Johns Hopkins studying AI!**
 
-- 🌱 I’m currently learning **PyTorch, LLMs, Databricks**
+- 🌱 I’m currently learning **PyTorch, LLMs, AI Agents, RAG**
 
 - 👯 I’m looking to collaborate on **New AI solutions within the communications, and space field!**
 

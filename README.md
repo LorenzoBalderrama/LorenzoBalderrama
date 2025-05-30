@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Zo</h1>
-<h3 align="center">A solution engineer focusing on AI and machine learning to build better products!</h3>
+<h3 align="center">An AI Engineer focusing on building great agentic products!</h3>
 
 - 🔭 I’m currently working on **A masters at Johns Hopkins studying AI!**
 
-- 🌱 I’m currently learning **PyTorch, LLMs, AI Agents, RAG**
+- 🌱 I’m continuosly buidling my skills in **Prompt Engineering, LLMs Evaluations, AI Agents, RAG systems**
 
 - 👯 I’m looking to collaborate on **New AI solutions within the communications, and space field!**
 

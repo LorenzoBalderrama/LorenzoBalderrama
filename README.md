@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Growing my career within space tech, and or communication tech.**
 
-- 📝 I regularly write articles on [https://thecodingsoup.hashnode.dev/](https://thecodingsoup.hashnode.dev/)
+- 📝 I regularly write articles on [https://thecodingsoup.com](https://thecodingsoup.com)
 
-- 💬 Ask me about **NodeJS, Javascript ML**
+- 💬 Ask me about **NodeJS, Javascript, AI**
 
 - 📫 How to reach me **zoupdevops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lorenzobalderr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorenzobalderr1" height="30" width="40" /></a>
+<a href="[https://twitter.com/lorenzobalderr1](https://x.com/TheCodingSoup)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorenzobalderr1" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://thecodingsoup.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://thecodingsoup.hashnode.dev/" height="30" width="40" /></a>
 </p>
 

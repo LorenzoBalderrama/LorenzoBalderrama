@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/lorenzobalderr1](https://x.com/TheCodingSoup)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorenzobalderr1" height="30" width="40" /></a>
+<a href="[https://twitter.com/TheCodingSoup](https://x.com/TheCodingSoup)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorenzobalderr1" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://thecodingsoup.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://thecodingsoup.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
